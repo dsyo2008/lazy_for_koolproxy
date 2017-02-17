@@ -3,6 +3,7 @@
 
 #使用方法
 ### 目前仅适用于koolproxy 3.3.3版本，其它版本未测试。
+
 1. 复制本项目的规则地址：https://raw.githubusercontent.com/dsyo2008/lazy_for_koolproxy/master/lazy_kp.txt</br>
 2. 将本地址粘贴到merlin koolproxy插件内规则订阅的地址栏里</br>
 3. 给规则起一个名字，比如：lazy_kp</br>
