@@ -13,8 +13,8 @@
 7. 点击提交按钮，第一次启用时会自动下载本项目规则</br>
 
 #声明
-本规则从adbyby软件自带的lazy.txt而来，经过处理，仅适用于koolproxy
-本规则不是koolproxy官方规则，使用本规则带来的任何问题，与本项目无关
+本规则从adbyby软件自带的lazy.txt而来，经过处理，仅适用于koolproxy</br>
+本规则不是koolproxy官方规则，使用本规则带来的任何问题，与本项目无关</br>
 
 # 感谢
-xwyhc维护的lazy规则
+xwyhc
